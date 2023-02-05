@@ -1,4 +1,7 @@
-# minimarket_ecomarce
+# minimarket
+## Name:Zakarie dahir faarah
+## Id: C119529
+## Class: CA192
 
 A new Flutter project.
 
